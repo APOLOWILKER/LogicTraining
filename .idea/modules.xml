@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaExercise/JavaExercise.iml" filepath="$PROJECT_DIR$/JavaExercise/JavaExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KotlinExercise/KotlinExercise.iml" filepath="$PROJECT_DIR$/KotlinExercise/KotlinExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LogicTraining.iml" filepath="$PROJECT_DIR$/LogicTraining.iml" />
+    </modules>
+  </component>
+</project>
